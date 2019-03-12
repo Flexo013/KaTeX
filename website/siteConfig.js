@@ -120,6 +120,11 @@ const users = [
         image: '/img/vade_mecum_shelf_logo.png',
         infoLink: 'https://github.com/tonton-pixel/vade-mecum-shelf/',
     },
+    {
+        caption: 'BoostNote',
+        image: '/img/boostnote_logo.png',
+        infoLink: 'https://boostnote.io/',
+    },
 ];
 
 const siteConfig = {
